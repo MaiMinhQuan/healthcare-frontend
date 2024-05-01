@@ -63,5 +63,49 @@
     "choose-doctor": "Choose doctor",
     "choose-date": "Choose date",
     "save": "Save info"
+  },
+  "patient": {
+    "detail-doctor": {
+      "schedule": "Schedule",
+      "no-schedule": "The doctor does not have an appointment during this time, please another time!",
+      "choose": "Choose",
+      "book": "and book (free)"
+    },
+    "extra-infor-doctor": {
+      "text-address": "Address",
+      "price": "Price:",
+      "detail": "Details",
+      "payment": "Patients can purchase by: ",
+      "hide-price": "Hide details"
+    },
+    "booking-modal": {
+      "title": "Appointment reservation",
+      "fullname": "Full name",
+      "phone-number": "Phone number",
+      "email": "Email",
+      "address": "Address",
+      "reason": "Symptom",
+      "birthday": "Date of birth",
+      "gender": "Gender",
+      "confirm": "Confirm",
+      "cancel": "Cancel",
+      "booking-free": "Booking for free",
+      "price": "Price: "
+    }
+  },
+  "admin": {
+    "manage-doctor": {
+      "title": "Create more information for doctors",
+      "select-doctor": "Select doctor",
+      "intro": "Introduction",
+      "add": "Add information",
+      "save": "Save information",
+      "price": "Price",
+      "payment": "Payment",
+      "province": "Province",
+      "name-clinic": "Clinic's name",
+      "address-clinic": "Clinic's address",
+      "note": "Note"
+    }
   }
 }

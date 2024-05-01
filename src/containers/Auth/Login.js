@@ -70,7 +70,6 @@ class Login extends Component {
   };
 
   handleKeyDown = (event) => {
-    console.log("hoidanit check keydown: ", event);
     if (event.key === "Enter" || event.keyCode === 13) {
       this.handleLogin();
     }

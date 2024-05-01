@@ -24,7 +24,7 @@ class HomeHeader extends Component {
         <div className="home-header-container">
           <div className="home-header-content">
             <div className="left-content">
-              <i class="fas fa-bars"></i>
+              <i className="fas fa-bars"></i>
               <img
                 className="header-logo"
                 src={logo}
@@ -130,7 +130,7 @@ class HomeHeader extends Component {
                 </div>
                 <div className="option-child">
                   <div className="icon-child">
-                    <i class="fas fa-mobile-alt"></i>
+                    <i className="fas fa-mobile-alt"></i>
                   </div>
                   <div className="text-child">
                     <FormattedMessage id="banner.child2" />
@@ -138,7 +138,7 @@ class HomeHeader extends Component {
                 </div>
                 <div className="option-child">
                   <div className="icon-child">
-                    <i class="fas fa-procedures"></i>
+                    <i className="fas fa-procedures"></i>
                   </div>
                   <div className="text-child">
                     <FormattedMessage id="banner.child3" />
@@ -146,7 +146,7 @@ class HomeHeader extends Component {
                 </div>
                 <div className="option-child">
                   <div className="icon-child">
-                    <i class="fas fa-flask"></i>
+                    <i className="fas fa-flask"></i>
                   </div>
                   <div className="text-child">
                     <FormattedMessage id="banner.child4" />
